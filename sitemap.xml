@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.arteks.ee/index.html</loc>
+    <lastmod>2018-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.arteks.ee/images/et.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.arteks.ee/images/en.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.arteks.ee/images/lv.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.arteks.ee/images/ru.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.arteks.ee/images/actros-14c459-w1024xh512-cutout.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.arteks.ee/images/fahrzeuge_der-neue-actros_071-1230x454.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.arteks.ee/images/header.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.arteks.ee/images/stock-vector-truck-parking-pinpoint-blue-and-white-isolated-icon-truck-parking-map-point-sign-vector-692365003.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.arteks.ee/images/depositphotos_130407114-stock-illustration-printer-icon-print-documents-technology.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.arteks.ee/images/thumb_colourbox17300181.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.arteks.ee/images/umbrella-icons-30057.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.arteks.ee/images/line.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
