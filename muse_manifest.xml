@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.arteks.ee" resolutions="1x" timestamp="1528223608877">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.arteks.ee" resolutions="1x" timestamp="1528233354160">
   <folder name="css">
     <file name="site_global.css" crc="106588251"/>
-    <file name="index.css" crc="4083926967" ref="index"/>
+    <file name="index.css" crc="10381618" ref="index"/>
     <file name="iefonts_index.css" crc="79001910" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -67,5 +67,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3789596076" seo="true" mt="1528221725832" redirect="true"/>
+  <file name="index.html" crc="233047590" seo="true" mt="1528233054562" redirect="true"/>
 </manifest>
