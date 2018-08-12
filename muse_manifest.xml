@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.arteks.ee" resolutions="1x" timestamp="1528233354160">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.arteks.ee" resolutions="1x" timestamp="1528221821726">
   <folder name="css">
     <file name="site_global.css" crc="106588251"/>
-    <file name="index.css" crc="10381618" ref="index"/>
+    <file name="index.css" crc="4083926967" ref="index"/>
     <file name="iefonts_index.css" crc="79001910" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -14,10 +14,10 @@
     <file name="musewpslideshow.js" crc="457073769" ref="index"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
     <file name="touchswipe.js" crc="4066113679" ref="index"/>
-    <file name="require.js" crc="4157109226" ref="index"/>
     <file name="form_check.php" crc="147359589" ref="index"/>
     <file name="form_throttle.php" crc="93986428" ref="index"/>
     <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
     <file name="form-u2229.php" crc="314651433" ref="index"/>
   </folder>
   <folder name="images">
@@ -67,5 +67,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="233047590" seo="true" mt="1528233054562" redirect="true"/>
+  <file name="index.html" crc="3789596076" seo="true" mt="1528221725832" redirect="true"/>
 </manifest>
